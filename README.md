@@ -6,7 +6,7 @@ Code repository for members of the AP Computer Science A self-study.
 ## Get setup
 
 1. Clone this repository into your Documents folder (or somewhere else of your choosing) ([install Git](https://git-scm.com/book/id/v2/Getting-Started-Installing-Git) if you haven't already)
-   `$ cd ~/Documents && git clone https://github.com/brycemck/csa-self-study.git`
+   * `$ cd ~/Documents && git clone https://github.com/brycemck/csa-self-study.git`
 2. Set your workspace to the cloned folder
    * Make sure eclipse will ask you to choose your workspace by checking this box in Preferences:
     ![alt text](http://brycemckenney.co/git-screenshots/1.jpg "Check this Box")
