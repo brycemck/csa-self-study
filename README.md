@@ -43,4 +43,4 @@ Code repository for members of the AP Computer Science A self-study.
 
 ## Helpful links
 
-* ![Party Parrots](http://cultofthepartyparrot.com/ "Party Parrots")
+* [Party Parrots](http://cultofthepartyparrot.com/)
