@@ -1,7 +1,7 @@
 # csa-self-study
 Code repository for members of the AP Computer Science A self-study.
 
-## To get setup
+## Get setup
 
 1. Clone this repository into your Documents folder (or somewhere else of your choosing) ([install Git](https://git-scm.com/book/id/v2/Getting-Started-Installing-Git) if you haven't already)
    `$ cd ~/Documents && git clone https://github.com/brycemck/csa-self-study.git`
@@ -18,10 +18,23 @@ Code repository for members of the AP Computer Science A self-study.
    * Navigate to the cloned folder on your computer (~/Documents/csa-self-study) and click Open
    * Click Finish
 
-## To start a new project
+## Start a new project
 
 1. Select the `zz-template` project from the Package Explorer
-2. Cmd + C to copy
-3. Cmd + V to paste
+2. Cmd/Ctrl + C to copy
+3. Cmd/Ctrl + V to paste
 4. Name the new project whatever you like
 5. Navigate to your package, and rename the file and class to whatever you want.
+
+## Pushing changes to GitHub
+
+1. After making changes to your code, you'll want to first pull any other changes made by anyone else to your computer to avoid any conflicts.
+   * `$ cd /path/to/csa-self-study && git pull`
+2. Now, check to see if you need to add anything to the code push.
+   * `$ git status`
+3. If there are any files listed under "Untracked files", run the following. This adds any newly created files to the code push. Otherwise, skip this step.
+   * `$ git add .`
+4. Now, you're ready to push your code. First you need to add a "commit" message, describing what you changed or added.
+   * `$ git commit -am 'added my project'`
+5. You should've seen a summary of file changes that were entered into that commit. Now, push to Git!
+   * `$ git push`
