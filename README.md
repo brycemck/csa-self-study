@@ -7,6 +7,6 @@ Code repository for members of the AP Computer Science A self-study.
    `$ cd ~/Documents && git clone https://github.com/brycemck/csa-self-study.git`
 2. Set your workspace to the cloned folder
   * Make sure eclipse will ask you to choose your workspace by checking this box in Preferences:
-   !(http://brycemckenney.co/git-screenshots/1.jpg)
+   ![alt text](http://brycemckenney.co/git-screenshots/1.jpg "Check this Box")
   * Quit Eclipse and reopen. Set your workspace to be your new cloned folder.
-   !(http://brycemckenney.co/git-screenshots/2.jpg)
+   ![alt text](http://brycemckenney.co/git-screenshots/2.jpg "Choose your Workspace")
