@@ -37,7 +37,7 @@ Code repository for members of the AP Computer Science A self-study.
 3. If there are any files listed under "Untracked files", run the following. This adds any newly created files to the code push. Otherwise, skip this step.
    * `$ git add .`
 4. Now, you're ready to push your code. First you need to add a "commit" message, describing what you changed or added.
-   * `$ git commit -am 'added my project'`
+   * `$ git commit -am 'YOUR MESSAGE HERE'`
 5. You should've seen a summary of file changes that were entered into that commit. Now, push to Git!
    * `$ git push`
 
