@@ -9,7 +9,7 @@ Code repository for members of the AP Computer Science A self-study.
    * Make sure eclipse will ask you to choose your workspace by checking this box in Preferences:
     ![alt text](http://brycemckenney.co/git-screenshots/1.jpg "Check this Box")
    * Quit Eclipse and reopen. Set your workspace to be your new cloned folder.
-    ![alt text](http://brycemckenney.co/git-screenshots/2.jpg "Choose your Workspace"
+    ![alt text](http://brycemckenney.co/git-screenshots/2.jpg "Choose your Workspace")
 3. Import existing projects
    * Navigate to File > Import...
    * Expand "General"
