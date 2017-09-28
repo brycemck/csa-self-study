@@ -1,5 +1,6 @@
 # csa-self-study
 Code repository for members of the AP Computer Science A self-study.
+![](partyparrot) ![](partyparrot) ![](partyparrot) ![](partyparrot) ![](partyparrot) ![](partyparrot) ![](partyparrot) ![](partyparrot) ![](partyparrot) ![](partyparrot) ![](partyparrot)
 
 ## Get setup
 
@@ -38,3 +39,5 @@ Code repository for members of the AP Computer Science A self-study.
    * `$ git commit -am 'added my project'`
 5. You should've seen a summary of file changes that were entered into that commit. Now, push to Git!
    * `$ git push`
+
+[partyparrot]: http://brycemckenney.co/git-screenshots/shuffleparrot.gif
