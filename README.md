@@ -1,6 +1,7 @@
 # csa-self-study
 Code repository for members of the AP Computer Science A self-study.
-![Party Parrot](partyparrot "Shuffle Parrot")
+
+![Party Parrot](https://ppaas.herokuapp.com/partyparrot "Party Parrot")
 
 ## Get setup
 
