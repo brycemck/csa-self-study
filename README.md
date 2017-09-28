@@ -1,7 +1,7 @@
 # csa-self-study
 Code repository for members of the AP Computer Science A self-study.
 
-![Party Parrot](https://ppaas.herokuapp.com/partyparrot "Party Parrot")
+![Party Parrot](partyparrot "Party Parrot")
 
 ## Get setup
 
@@ -41,4 +41,4 @@ Code repository for members of the AP Computer Science A self-study.
 5. You should've seen a summary of file changes that were entered into that commit. Now, push to Git!
    * `$ git push`
 
-[partyparrot]: http://brycemckenney.co/git-screenshots/shuffleparrot.gif
+[partyparrot]: https://ppaas.herokuapp.com/partyparrot
