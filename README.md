@@ -1,6 +1,6 @@
 # csa-self-study
 Code repository for members of the AP Computer Science A self-study.
-![](partyparrot)
+![Party Parrot](partyparrot "Shuffle Parrot")
 
 ## Get setup
 
