@@ -17,8 +17,9 @@ import javax.swing.JOptionPane;
 
 /**
  * In the real world, java managers want insane amounts of java documentation in the form of Javadocs.
- * In seems a bit overkill to me, but eventually you'll want to know how to write Javadocs for your methods.
- * Your Dad can show you how to get Checkstyle setup :)
+ * I think this is largely because some programmers don't write expressive code that is comprehensible so instead of enforcing good code,
+ * they largely rely on documentation. Don't be the guy that can't write expressive code. You don't seem to have a problem with this.
+ * eventuallyyou'll want to know how to write Javadocs for your methods. Your Dad can show you how to get Checkstyle setup :)
  *
  * You are right to focus on your code first, though! 
  */
