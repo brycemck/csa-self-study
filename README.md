@@ -1,6 +1,6 @@
 # csa-self-study
 Code repository for members of the AP Computer Science A self-study.
-![](partyparrot) ![](partyparrot) ![](partyparrot) ![](partyparrot) ![](partyparrot) ![](partyparrot) ![](partyparrot) ![](partyparrot) ![](partyparrot) ![](partyparrot) ![](partyparrot)
+![](partyparrot)
 
 ## Get setup
 
