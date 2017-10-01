@@ -1,4 +1,4 @@
-package zane;
+package com.zane;
 
 import java.util.Scanner;
 

@@ -1,6 +1,6 @@
 // Do all the imports
 
-package bryce;
+package com.bryce;
 
 import java.io.BufferedReader;
 import java.io.IOException;

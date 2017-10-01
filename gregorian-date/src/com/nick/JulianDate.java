@@ -3,7 +3,7 @@
  * @author nick murphy 9/2/2017
  */
 
-package nick;
+package com.nick;
 
 //Import needed classes
 import javax.swing.*;

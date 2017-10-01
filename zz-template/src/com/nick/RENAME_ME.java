@@ -2,9 +2,9 @@
  * RENAME_ME.java
  * Description here
  * 
- * @author Zane Heaton
+ * @author Nick Murphy
  */
-package zane;
+package com.nick;
 
 public class RENAME_ME {
 	public static void main(String[] args) {
