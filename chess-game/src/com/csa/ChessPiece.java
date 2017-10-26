@@ -1,5 +1,7 @@
 package com.csa;
 
+import javax.swing.JOptionPane;
+
 public class ChessPiece {
   public boolean team = false; // teams: true = black, false = white
   public int placement = 0;
@@ -28,6 +30,28 @@ public class ChessPiece {
     return this.placement;
   }
   
-  // Movement
-  
+  public int inputYMovement() {
+    int inputY = 0;
+    String yMove = JOptionPane.showInputDialog("Please insert the desired vertical movement.");
+
+    try {
+      inputY = Integer.parseInt(yMove);
+    } catch (NumberFormatException nfe) {
+      System.err.print("Invalid input. Try again.");
+      this.inputYMovement();
+    }
+    return inputY;
+  }
+  public int inputXMovement() {
+    int inputX = 0;
+    String xMove = JOptionPane.showInputDialog("Please insert the desired horizontal movement.");
+
+    try {
+      inputX = Integer.parseInt(xMove);
+    } catch (NumberFormatException nfe) {
+      System.err.print("Invalid input. Try again.");
+      this.inputXMovement();
+    }
+    return inputX;
+  }
 }
