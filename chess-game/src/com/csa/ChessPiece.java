@@ -1,10 +1,8 @@
 package com.csa;
 
-import javax.swing.JOptionPane;
-
 public class ChessPiece {
   public boolean team = false; // teams: true = black, false = white
-  public int placement = 0;
+  public int[][] placement = new int[7][7];
   public boolean alive = true;
   
   public ChessPiece birth() {
@@ -29,29 +27,10 @@ public class ChessPiece {
   public int getPlacement() {
     return this.placement;
   }
-  
-  public int inputYMovement() {
-    int inputY = 0;
-    String yMove = JOptionPane.showInputDialog("Please insert the desired vertical movement.");
-
-    try {
-      inputY = Integer.parseInt(yMove);
-    } catch (NumberFormatException nfe) {
-      System.err.print("Invalid input. Try again.");
-      this.inputYMovement();
-    }
-    return inputY;
+  public void calculatePotentialPositions() {
+    
   }
-  public int inputXMovement() {
-    int inputX = 0;
-    String xMove = JOptionPane.showInputDialog("Please insert the desired horizontal movement.");
-
-    try {
-      inputX = Integer.parseInt(xMove);
-    } catch (NumberFormatException nfe) {
-      System.err.print("Invalid input. Try again.");
-      this.inputXMovement();
-    }
-    return inputX;
+  public void test() {
+    this.placement = [4][3];
   }
 }
