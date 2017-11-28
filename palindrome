@@ -1,0 +1,9 @@
+Palindromes
+
+Create a program that will take a user submitted word and determine if the word is a palindrom or not. 
+
+Include input validation.
+Palindromes are words spelled the same forwards and backwards:
+Civic   Noon    Radar
+
+Due Thursday, November, 30th, 2017.
